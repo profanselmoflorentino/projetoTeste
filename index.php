@@ -13,7 +13,7 @@
           <input type="text" name="cxnome"><br/>
           Altura:
           <input type="text" name="cxaltura"><br/>
-          Peso:
+          Peso::::
           <input type="text" name="cxpeso"><br/>
           <input type="submit" value="IMC">
      </form> 
